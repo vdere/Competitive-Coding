@@ -1,5 +1,4 @@
-// C++ program to check if a given number is perfect 
-// or not 
+// C++ program to check if a given number is perfect  
 #include<bits/stdc++.h> 
 using namespace std; 
 
